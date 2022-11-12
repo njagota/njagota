@@ -2,9 +2,9 @@
 - 👀 I’m interested in business systems integration and using AI to improve health care delivery and public services
 - 💡 I've written code almost every day dor the past 20 years (love it), while maintaining a rich social life with tons of diverse healthy hobbies. It can be done!
 - 🍻 I love cold beers and cool motorcycles
-- 🌱 I’m currently honing my REACT and MONGO skills in a super fun but long course that I highly recommend
-- 💞️ I’m looking to collaborate on any fun projects that can improve my SOA/Microservices skills while helping others
-- 💩 My repos are all private because my projects are always protected by NDAs. But just ask me for help in any MS tech and I probably have a ton of experience with it!
+- 🌱 I've really elevated my REACT and MONGO skills this past year. I love MERN almost as much as MS Stack. Almost...
+- 💞️ I’d be glad to contribute on any projects that challenge my Microservices skills while helping others learn
+- 💩 My good repos are not available because my projects are always protected by NDAs. But just ask me for help in any MS tech, I have have a ton of experience with it!
 - 📫 I can be reached at njagota@gmail.com
 
 <!---
